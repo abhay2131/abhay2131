@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **shareNote**
+- 🔭 I’m currently working as  **Full stack Developer intern**
 
-- 🌱 I’m currently learning **Generarive AI**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Full stack web development**
 
